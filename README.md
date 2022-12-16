@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on React & Sveltekit
 - 🌱 I’m currently learning Next.Js
 - 👯 I’m looking to collaborate on ...
